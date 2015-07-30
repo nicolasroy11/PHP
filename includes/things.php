@@ -16,9 +16,9 @@
 							),
 		
 		"mamas" => array(
-							'slug' => 'yo_mamaz',
-							'name'=>'Your mom',
-							'worth'=>'100 a night',
+							'slug' => 'money',
+							'name'=>'Money',
+							'worth'=>'money',
 							'type' => 'concrete'
 							),
 					);
