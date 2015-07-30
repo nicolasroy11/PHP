@@ -29,7 +29,7 @@ var_dump($results);
 //Page Specific Variables and Functions
 	define("TITLE", "PHP Test Page 1");
 	$name = 'Nicolas';
-	$fave_foods = array("sushi", "poutine", "your mom");
+	$fave_foods = array("sushi", "poutine", "crepes");
 	$nick = array('name' => 'Nicolas Roy', 'age' => 38, 'occupation' => 'engineer');
 	$jobs = array(
 				array('name'=>'Orbit','years_worked'=>'1'),
