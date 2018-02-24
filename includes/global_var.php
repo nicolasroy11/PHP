@@ -1,9 +1,9 @@
 <?php
-	$birth_year = 1977;
+	$birth_year = year;
 	$this_year = date('Y');
 	$today_date = date('M jS, Y');
 	$age = $this_year - $birth_year;
-	define('AUTHOR', 'Nicolas Roy');
+	define('AUTHOR', 'Nicolas O');
 	$navItems = array(
 					array('slug'=>'index.php','title'=>'home'),
 					array('slug'=>'page2.php','title'=>'second page'),
